@@ -3,7 +3,7 @@ public class Libro {
     String autor;
     int paginaCount;
 
-
+    //Constructor
     public Libro(String titulo, String autor, int paginaCount) {
         this.titulo = titulo;
         this.autor = autor;

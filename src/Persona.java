@@ -3,7 +3,7 @@ public class Persona {
     int edad;
     String genero;
 
-
+    //Constructor
     public Persona(String nombre, int edad, String genero) {
         this.nombre = nombre;
         this.edad = edad;
