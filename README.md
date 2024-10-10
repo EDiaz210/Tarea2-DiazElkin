@@ -1,3 +1,4 @@
+-
 Este repositorio contiene dos programas simples en Java que demuestran el uso de clases, atributos, constructores y métodos. Los programas permiten crear objetos con datos específicos y generar impresiones personalizadas basadas en los valores asignados a cada objeto.
 -
 
