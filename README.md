@@ -3,17 +3,14 @@ Este repositorio contiene dos programas simples en Java que demuestran el uso de
 
 Persona.java
 -
-
 -
 Este archivo contiene una clase Persona que incluye tres atributos: nombre, edad y genero. La clase tiene dos constructores (uno vacío y otro con parámetros) y un método llamado presentarse que imprime un saludo personalizado basado en los valores de los atributos de cada objeto Persona.
--
+
 
 Libro.java
 -
-
 -
 Este archivo contiene una clase Libro con los atributos titulo, autor y paginaCount. El constructor de la clase inicializa estos atributos y el método infoLibro imprime los detalles del libro. El programa crea dos objetos Libro y muestra su información.
--
 
 Ejecución
 -
