@@ -12,9 +12,12 @@ public class Libro {
         this.paginaCount = paginaCount;
     }
 
+    //metodo
     public void infoLibro(){
         System.out.println("Titulo: " + titulo + ", Autor: " + autor + ", Paginas: " + paginaCount);
     }
+
+    //main
 
     public static void main(String[] args) {
         Libro libro1 = new Libro("Culpa Mia", "Mercedes Ron", 448 );
@@ -22,6 +25,7 @@ public class Libro {
 
         libro1.infoLibro();
         libro2.infoLibro();
+
     }
 }
 
