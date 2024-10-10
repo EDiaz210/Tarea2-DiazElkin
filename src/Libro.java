@@ -3,8 +3,6 @@ public class Libro {
     String autor;
     int paginaCount;
 
-    public Libro() {
-    }
 
     public Libro(String titulo, String autor, int paginaCount) {
         this.titulo = titulo;
@@ -12,7 +10,7 @@ public class Libro {
         this.paginaCount = paginaCount;
     }
 
-    //metodo
+    //Método
     public void infoLibro(){
         System.out.println("Titulo: " + titulo + ", Autor: " + autor + ", Paginas: " + paginaCount);
     }

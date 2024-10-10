@@ -3,8 +3,6 @@ public class Persona {
     int edad;
     String genero;
 
-    public Persona() {
-    }
 
     public Persona(String nombre, int edad, String genero) {
         this.nombre = nombre;
@@ -12,7 +10,7 @@ public class Persona {
         this.genero = genero;
     }
 
-    //Metodo
+    //Método
     public void presentarse() {
         System.out.println("Hola mi nombre es " + nombre + " y tengo " + edad + "años.");
     }
